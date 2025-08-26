@@ -1,0 +1,2 @@
+# Пример команды для генерации (если у тебя установлен ImageMagick):
+convert -size 64x64 xc:blue -fill white -font Arial -pointsize 32 -gravity center -draw "text 0,0 'CH'" favicon.ico
